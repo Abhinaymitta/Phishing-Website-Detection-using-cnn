@@ -125,14 +125,4 @@ __________
    Hyperparameter tuning using GridSearchCV or Optuna.
 
    Save and deploy the trained model using Flask or FastAPI for real-time usage.
-______
-📂 Project Structure
 
-```bash
-phishing-website-detection/
-├── dataset/
-│   └── phishing_dataset.csv
-├── phishing_detection.py        
-├── requirements.txt
-├── README.md
-└── .gitignore
